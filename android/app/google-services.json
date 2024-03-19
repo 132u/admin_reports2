@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762032518808",
+    "project_id": "admin-report3",
+    "storage_bucket": "admin-report3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762032518808:android:22be0a50d8ee6e746c02ed",
+        "android_client_info": {
+          "package_name": "com.example.admin_reports3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAac7TOCZviomECtUeveIunXyjPT0T-3ww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
